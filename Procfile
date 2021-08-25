@@ -1,1 +1,1 @@
-web: gunicorn qtec.wsgi --log-file -
+web: gunicorn qtec.wsgi 
